@@ -1,0 +1,6 @@
+[submodule "ChatServer"]
+	path = ChatServer
+	url = https://github.com/Aenvis/ChatServer
+[submodule "ChatClient"]
+	path = ChatClient
+	url = https://github.com/Aenvis/ChatClient
